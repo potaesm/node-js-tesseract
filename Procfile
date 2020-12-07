@@ -1,0 +1,1 @@
+web: npm config set node-js-tesseract:port $PORT && npm test
